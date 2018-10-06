@@ -45,22 +45,23 @@
 \includegraphics[scale=0.25, keepaspectratio]{logo.jpg}\\[0.5cm] % Logo of the university
 
 %	HEADING SECTIONS
-\textsc{\LARGE Galactic Republic University}\\[0.5cm] % Name of the university
-\textsc{\Large Faculty of Galactic Sciences}\\[0.5cm] % Name of the faculty
-\textsc{\Large Department of Jedi Science}\\[0.5cm] % Name of the department
-\textsc{\Large Fall}\\[0.3cm] % Term 
-\textsc{\large Advanced Light Saber}\\[2.5cm] % Course Title
+\textsc{\LARGE Instituto Tecnologico de Buenos Aires}\\[0.5cm] % Name of the university
+\textsc{\Large Ingeniera Electronica}\\[0.5cm] % Name of the faculty
+\textsc{\Large Electronica III}\\[0.5cm] % Name of the department
 
 %	TITLE SECTION
 \HRule \\[0.4cm]
-{\LARGE  A brief History of techniques in Light Saber}\\[0.2cm] % Title of the document
+{\LARGE  Implementación de circuitos logicos}\\[0.2cm] % Title of the document
 \HRule \\[0.4cm]
 
 %	AUTHOR SECTION
 \begin{minipage}{0.4\textwidth}
 \begin{flushleft} \large
 \emph{Author:}\\
-Luke \textsc{Skywalker} % Name
+Martín Rodriguez Turco
+		Tobias Scala
+			Guido Panaggio
+			Juan Martin Laguingue % Name
 \end{flushleft}
 \end{minipage}
 ~
@@ -112,11 +113,11 @@ Obi-Wan \textsc{Kenobi} % Supervisor's Name
 \input{../8-UltraSound/UltraSound.tex}\textbf{•}
 \clearpage
 \section*{Appendix}
-\addcontentsline{toc}{section}{Appendix}
+\addcontentsline{toc}{chapter}{Appendix}
 
 
 \begin{thebibliography}{}
-\addcontentsline{toc}{section}{References}
+\addcontentsline{toc}{chapter}{References}
 \bibitem{INT1} Yoda. "A Brief History of Jedism" Journal of The New Jedi Order (Year): 93-98.
  \end{thebibliography} 
 \end{document}
