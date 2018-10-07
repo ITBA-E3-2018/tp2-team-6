@@ -1,41 +1,18 @@
-%\begin{document}
-%\title{Electronica III \\
-%Trabajo Practico de Laboratorio N 1}
-%
-%\author{Martin Rodriguez Turco\\
-% Juan Martin Laguinge\\
-% Tobias Scala\\
-% Guido Panaggio}
-%\date{5 de Septiembre de 2018}
-%
-%\begin{Large}
-%\maketitle
-%\end{Large}
-%
-%\input{Ejercicios/Ejercicio1.tex}
-%\input{Ejercicios/Ejercicio2.tex}
-%\input{Ejercicios/Ejercicio3.tex}
-%\input{Ejercicios/Ejercicio4.tex}
-%\input{Ejercicios/Ejercicio5.tex}
-%\input{Ejercicios/Ejercicio6.tex}
-%\end{document}
-% Doğancan Özturan 
-% Creative Commons Attribution-ShareAlike 4.0 International License.
+\documentclass[11pt, spanish]{report}
+\usepackage{Preamble}
+%\usepackage[tmargin=4cm, bmargin=2.50cm]{geometry} %margin of the document
+%\usepackage{graphicx} % for the images on the document
+%\usepackage[utf8]{inputenc}
+%\setcounter{secnumdepth}{3} % for the visualization of the toc
+%\setcounter{tocdepth}{3} % for the visualization of the toc
+%\usepackage[linktoc=all]{hyperref} % for clickable toc
+%\usepackage{setspace}
+%\usepackage{color}
+%\onehalfspacing
 
-\documentclass[a4paper]{report}
-\usepackage[tmargin=4cm, bmargin=2.50cm]{geometry} %margin of the document
-\usepackage{graphicx} % for the images on the document
-\usepackage[utf8]{inputenc}
-\setcounter{secnumdepth}{3} % for the visualization of the toc
-\setcounter{tocdepth}{3} % for the visualization of the toc
-\usepackage[linktoc=all]{hyperref} % for clickable toc
-\usepackage{setspace}
-\usepackage{color}
-%\usepackage{tocloft}
-
-\onehalfspacing
 
 \begin{document}
+
 \begin{titlepage}
 
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % a new command for the horizontal lines, change thickness
@@ -57,18 +34,25 @@
 %	AUTHOR SECTION
 \begin{minipage}{0.4\textwidth}
 \begin{flushleft} \large
-\emph{Author:}\\
-Martín Rodriguez Turco
-		Tobias Scala
-			Guido Panaggio
-			Juan Martin Laguingue % Name
+\emph{Autores:}\\
+Martín \textsc{Rodriguez Turco}
+\\
+Tobias \textsc{Scala}
+\\
+Guido \textsc{Panaggio}
+\\
+Juan Martin \textsc{Laguinge} % Name
 \end{flushleft}
 \end{minipage}
 ~
 \begin{minipage}{0.4\textwidth}
 \begin{flushright} \large
-\emph{Instructor:} \\
-Obi-Wan \textsc{Kenobi} % Supervisor's Name
+\emph{Profesores:} \\
+Kevin \textsc{DeWald} % Supervisor's Name
+\\
+Pablo \textsc{Wundes} % Supervisor's Name
+\\
+Sebastian \textsc{Falconaro} % Supervisor's Name
 \end{flushright}
 \end{minipage}\\[6cm]
 
@@ -120,4 +104,5 @@ Obi-Wan \textsc{Kenobi} % Supervisor's Name
 \addcontentsline{toc}{chapter}{References}
 \bibitem{INT1} Yoda. "A Brief History of Jedism" Journal of The New Jedi Order (Year): 93-98.
  \end{thebibliography} 
+ 
 \end{document}

@@ -1,2 +1,16 @@
 \chapter{NotGATE}
-hola
+\subsection{Objetivo}
+Implementar de dos manera diferente una compuerta \emph{NOT} utilizando transistores de tecnologia \emph{BJT}
+
+
+https://www.youtube.com/watch?v=XpN0IQMHo7k
+\caption{Tabla de Verdad}
+			\begin{tabular}{|c|c|}
+				\hline
+				\textbf{INPUT} & \textbf{OUTPUT} \\
+				\hline
+				0  &  \\1
+				\hline
+				1  & 0\\
+			\end{tabular} \\
+		
