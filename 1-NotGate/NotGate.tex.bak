@@ -2,15 +2,20 @@
 \subsection{Objetivo}
 Implementar de dos manera diferente una compuerta \emph{NOT} utilizando transistores de tecnologia \emph{BJT}
 
-
+\begin{center}
+Tabla de verdad NOT GATES
+	\begin{center}
+		\begin{tabular}{|c|c|}
+					\hline
+					\textbf{INPUT} & \textbf{OUTPUT} \\
+					\hline
+					0  &  1\\
+					\hline
+					1  & 0\\
+					\hline
+				\end{tabular}
+	\end{center}
+\end{center}
+			
+			
 https://www.youtube.com/watch?v=XpN0IQMHo7k
-\caption{Tabla de Verdad}
-			\begin{tabular}{|c|c|}
-				\hline
-				\textbf{INPUT} & \textbf{OUTPUT} \\
-				\hline
-				0  &  \\1
-				\hline
-				1  & 0\\
-			\end{tabular} \\
-		
