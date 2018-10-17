@@ -1,23 +1,22 @@
-\documentclass{report}
 %Libreries needed
 
 %Needed to use diagbox that make the \ in the table
-\usepackage{diagbox}
+%\usepackage{diagbox}
 %Needed to set the edge of the document
-\usepackage{vmargin}
+%\usepackage{vmargin}
 
 %Beginning of the document
-\begin{document}
-\setpapersize{A4}
-\setmargins{2.5cm}   % Left edge
-{1.5cm}                      % Superior edge
-{12cm}                       % Text width
-{20cm}                   	   % Height of the text
-{10pt}                        % Height of the headers
-{1cm}                         % Space between the text and the headers
-{0pt}                          % Height of the foot of page
-{2cm}                         % Space between the tax and the foot of page
-\chapter{4HC02}
+%\begin{document}
+%\setpapersize{A4}
+%\setmargins{2.5cm}   % Left edge
+%{1.5cm}                      % Superior edge
+%{12cm}                       % Text width
+%{20cm}                   	   % Height of the text
+%{10pt}                        % Height of the headers
+%{1cm}                         % Space between the text and the headers
+%{0pt}                          % Height of the foot of page
+%{2cm}                         % Space between the tax and the foot of page
+\chapter{74HC02}
 \begin{center}
 	\begin{table}[h!] 	%With the [h!] we told the document to have the table lock on this position and not to move it
 		\begin{center}
@@ -41,4 +40,3 @@ Además del cambio mencionado, cabe destacar otro efectos más que aparecen dura
 Estos cambios sucedieron debido a que se le procedió a pedir un cambio de corriente demasiado rápido para la velocidad a la cual puede suministrar el integrado causando que pida lo mismo a la fuente dando a lugar a lo anteriormente mencionado. Para arreglarlo, se le agregaron capacitores de desacople en paralelo con la alimentación de cada integrado digital. Se eligieron capacitores de 100nF dado que son los de uso más frecuente y la razón de esto es que debido a que se le pide un cambio de corriente muy rápido para esto es necesario que el capacitor sea de un valor chico. Esto se debe que al ver la ecuación de carga y descarga del capacitor mientras menor sea la capacitancia más rápido va a ser visto el cambio de corriente en el tiempo; otro motivo es que el capacitor ideal tiene efectos de inductancia y resistivos lo cual se empiezan a presentar a una determinada frecuencia la cual aumenta a medida que la capacitancia disminuye, luego eligiendo uno de 100nF es más que suficiente para los cumplir con los fines queridos.\\
 En conclusión, el uso de capacitores de desacople se decide basado en las frecuencias con las cuales se va a trabajar y su valor se decide basado en que tan altas van a ser las frecuencias en las cuales se va a trabajar, mientras más grande la frecuencia menor deberá ser la capacitancia del capacitor.\\
 Además, también se puede concluir que los tiempos del Integrado lineal se van a ver afectados por las cargas con lo cual se debe evitar el uso de cargas grandes debido a que mientras mayor sea la carga mayor va a ser el cambio producido en estos hasta el punto de que va a ser muy lento o la lógica se va a haber afectado de tal manera que ya no va a tener sentido.\\
-\end{document}

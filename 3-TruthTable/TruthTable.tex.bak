@@ -5,7 +5,7 @@ EJEMPLO DE MAPA DE KARNAUGH
  \begin{center}
  \begin{Karnaugh}
  %Inputs are in the order of the max/min termns. Do not use continous inputs. Ex: first term refers to m0/M0, fourth term refers to m2/M2
-        \contingut{0,0,1,1,1,0,1,0,0,1,0,1,1,1,0,0}
+        \contingut{0,1,1,1,0,1,0,0}
        	\implicant{2}{6}{red}
        	\implicant{13}{9}{blue}	%Numero de mintermino o Maxtermino
      	\implicant{4}{12}{purple}

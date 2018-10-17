@@ -10,6 +10,13 @@
 %Needed to insert links
 \usepackage{hyperref}
 
+%PARA  EL 74HC02
+
+%Needed to use diagbox that make the \ in the table
+\usepackage{diagbox}
+%Needed to set the edge of the document
+%\usepackage{vmargin}
+
 
 %\usepackage[a4paper, total={6.5in, 8in}]{geometry}
 %\graphicspath{ {images/} }
@@ -21,6 +28,8 @@
 \usepackage{tikz}
 \usetikzlibrary{matrix,calc}
 \usepackage{tikz}
+\usepackage{tikz}
+\usetikzlibrary{matrix,calc}
 
 %isolated term
 %#1 - Optional. Space between node and grouping line. Default=0
@@ -170,3 +179,28 @@
     \foreach \x in {#1}
         \path (\x) node {X};
 }
+
+\begin{document}
+    \begin{Karnaugh}
+        \contingut{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}
+       \implicant{0}{2}{red}
+       \implicant{5}{15}{purple}
+       \implicantdaltbaix[3pt]{3}{10}{blue}
+    \implicantcantons[2pt]{orange}
+       \implicantcostats{4}{14}{green}
+    \end{Karnaugh}
+    %
+    \begin{Karnaughvuit}
+       \minterms{3,4}
+        \maxterms{0,1,6,7}
+       \indeterminats{2,5}
+       \implicant{3}{2}{green}
+       \implicant{4}{5}{}
+    \end{Karnaughvuit}
+    %
+    \begin{Karnaughquatre}
+        \minterms{1,2}
+       \maxterms{0,3}
+       \implicantsol{1}{green}
+       \implicantsol{2}{red}
+    \end{Karnaughquatre}
