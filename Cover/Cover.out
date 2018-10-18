@@ -3,14 +3,18 @@
 \BOOKMARK [0][-]{chapter.1}{NotGATE}{}% 3
 \BOOKMARK [1][-]{subsection.1.0.1}{Objetivo}{chapter.1}% 4
 \BOOKMARK [0][-]{chapter.2}{NoiseMargin}{}% 5
-\BOOKMARK [0][-]{chapter.3}{Tabla de Verdad}{}% 6
-\BOOKMARK [0][-]{chapter.4}{74HC02}{}% 7
-\BOOKMARK [0][-]{chapter.5}{TTL y CMOS}{}% 8
-\BOOKMARK [0][-]{chapter.6}{Flip Flop y Latch}{}% 9
-\BOOKMARK [0][-]{chapter.7}{Contador Ascendente}{}% 10
-\BOOKMARK [1][-]{section.7.1}{Funcionamiento L\363gico del Contador Ascendente}{chapter.7}% 11
-\BOOKMARK [1][-]{section.7.2}{Tipos de Contadores}{chapter.7}% 12
-\BOOKMARK [2][-]{subsection.7.2.1}{An\341lisis de Ambos Circuitos}{section.7.2}% 13
-\BOOKMARK [0][-]{chapter.8}{Ultrasonido}{}% 14
-\BOOKMARK [0][-]{section*.7}{Appendix}{}% 15
-\BOOKMARK [0][-]{chapter*.8}{References}{}% 16
+\BOOKMARK [0][-]{chapter.3}{Implementaci\363n de Tabla de Verdad}{}% 6
+\BOOKMARK [0][-]{chapter.4}{TTL y CMOS}{}% 7
+\BOOKMARK [1][-]{section.4.1}{Introducci\363n}{chapter.4}% 8
+\BOOKMARK [1][-]{section.4.2}{Compatibilidad}{chapter.4}% 9
+\BOOKMARK [1][-]{section.4.3}{Soluci\363n}{chapter.4}% 10
+\BOOKMARK [0][-]{chapter.5}{Flip Flop y Latch}{}% 11
+\BOOKMARK [0][-]{chapter.6}{Contador Ascendente}{}% 12
+\BOOKMARK [1][-]{section.6.1}{Funcionamiento L\363gico del Contador Ascendente}{chapter.6}% 13
+\BOOKMARK [1][-]{section.6.2}{Tipos de Contadores}{chapter.6}% 14
+\BOOKMARK [2][-]{subsection.6.2.1}{An\341lisis de Ambos Circuitos}{section.6.2}% 15
+\BOOKMARK [0][-]{chapter.7}{Ultrasonido}{}% 16
+\BOOKMARK [1][-]{subsection.7.0.1}{Objetivo}{chapter.7}% 17
+\BOOKMARK [2][-]{subsection.7.0.2}{Analisis}{subsection.7.0.1}% 18
+\BOOKMARK [0][-]{section*.8}{Appendix}{}% 19
+\BOOKMARK [0][-]{chapter*.9}{References}{}% 20
