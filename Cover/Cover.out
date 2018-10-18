@@ -1,13 +1,8 @@
 \BOOKMARK [1][-]{chapter*.3}{List of Figures}{}% 1
 \BOOKMARK [1][-]{chapter*.5}{List of Tables}{}% 2
-\BOOKMARK [0][-]{chapter.1}{NotGATE}{}% 3
-\BOOKMARK [1][-]{subsection.1.0.1}{Objetivo}{chapter.1}% 4
-\BOOKMARK [0][-]{chapter.2}{NoiseMargin}{}% 5
-\BOOKMARK [0][-]{chapter.3}{Tabla de Verdad}{}% 6
-\BOOKMARK [0][-]{chapter.4}{74HC02}{}% 7
-\BOOKMARK [0][-]{chapter.5}{TTL y CMOS}{}% 8
-\BOOKMARK [0][-]{chapter.6}{Flip Flop y Latch}{}% 9
-\BOOKMARK [0][-]{chapter.7}{Async-Sync-Counter}{}% 10
-\BOOKMARK [0][-]{chapter.8}{Ultrasonido}{}% 11
-\BOOKMARK [0][-]{section*.7}{Appendix}{}% 12
-\BOOKMARK [0][-]{chapter*.8}{References}{}% 13
+\BOOKMARK [0][-]{chapter.1}{Contador Ascendente}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Funcionamiento L\363gico del Contador Ascendente}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Tipos de Contadores}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{An\341lisis de Ambos Circuitos}{section.1.2}% 6
+\BOOKMARK [0][-]{section*.7}{Appendix}{}% 7
+\BOOKMARK [0][-]{chapter*.8}{References}{}% 8
