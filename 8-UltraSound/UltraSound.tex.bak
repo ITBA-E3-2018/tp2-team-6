@@ -8,4 +8,5 @@ Para poder empezar con el proceso de diseño se analizaron todas las etapas por 
 \includegraphics[scale=0.5,keepaspectratio]{../8-UltraSound/Driagrama-de-Flujo.png}
 
 \end{center}
-Dado que estamos trabajando con compuertas logicas fue bastante razonable pensar que en algún punto del diseño
+El diseño comienza por la construcción de un sistema de trigger que permita los procesos siguientes.
+Para dicho sistema se podria haber optado por la implementación de un pulsador 
