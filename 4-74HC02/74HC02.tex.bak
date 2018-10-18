@@ -1,22 +1,4 @@
-%Libreries needed
-
-%Needed to use diagbox that make the \ in the table
-%\usepackage{diagbox}
-%Needed to set the edge of the document
-%\usepackage{vmargin}
-
-%Beginning of the document
-%\begin{document}
-%\setpapersize{A4}
-%\setmargins{2.5cm}   % Left edge
-%{1.5cm}                      % Superior edge
-%{12cm}                       % Text width
-%{20cm}                   	   % Height of the text
-%{10pt}                        % Height of the headers
-%{1cm}                         % Space between the text and the headers
-%{0pt}                          % Height of the foot of page
-%{2cm}                         % Space between the tax and the foot of page
-\chapter{74HC02}
+\chapter*{74HC02}
 \begin{center}
 	\begin{table}[h!] 	%With the [h!] we told the document to have the table lock on this position and not to move it
 		\begin{center}
