@@ -1,4 +1,14 @@
 \select@language {spanish}
 \select@language {spanish}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces Tabla de Verdad del Contador (3 bits)}}{4}{table.1.1}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Datasheet}}{5}{table.2.1}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Valores Experimentales}}{6}{table.2.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Mediciones Realizadas}}{8}{table.4.1}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Tabla de Verdad del Contador (3 bits)}}{12}{table.7.1}
+\addvspace {10\p@ }
