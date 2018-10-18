@@ -13,6 +13,7 @@
 \contentsline {section}{\numberline {7.1}Funcionamiento L\IeC {\'o}gico del Contador Ascendente}{12}{section.7.1}
 \contentsline {section}{\numberline {7.2}Tipos de Contadores}{12}{section.7.2}
 \contentsline {subsection}{\numberline {7.2.1}An\IeC {\'a}lisis de Ambos Circuitos}{13}{subsection.7.2.1}
-\contentsline {chapter}{\numberline {8}Ultrasonido}{14}{chapter.8}
-\contentsline {chapter}{Appendix}{15}{section*.7}
-\contentsline {chapter}{References}{16}{chapter*.8}
+\contentsline {subsection}{\numberline {7.2.2}Conclusi\IeC {\'o}n}{16}{subsection.7.2.2}
+\contentsline {chapter}{\numberline {8}Ultrasonido}{17}{chapter.8}
+\contentsline {chapter}{Appendix}{18}{section*.7}
+\contentsline {chapter}{References}{19}{chapter*.8}
