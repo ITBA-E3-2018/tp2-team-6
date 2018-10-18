@@ -28,7 +28,7 @@ El funcionamiento lógico del contador se lo explica en la siguiente tabla:
 				\hline
 				7 & 1 1 1\\
 				\hline
-				0 & 0 0 0\\
+				8 & 0 0 0\\
 				\hline
 			\end{tabular} \\
 		\end{center}
@@ -53,5 +53,22 @@ A continuación se muestra el circuito en físico:
 \includegraphics{../7-Async-Sync-Counter/pcb.png}
 \end{center}
 
-Luego se procedió a medir utilizando el osciloscopio la entrada y las salidas de cada estado. Y se obtuvo lo siguiente para el contador sincrónico:
+Luego se procedió a medir utilizando el osciloscopio la entrada (clock) y las salidas de cada estado. Y se obtuvo lo siguiente para ambos contadores:
 
+\begin{center}
+\includegraphics{../7-Async-Sync-Counter/contador osc.png}
+\end{center}
+
+Siendo la señal amarilla el clock, la señal roja el estado Q0, la señal violeta el estado Q1 y la señal verde el estado Q2.
+Al hacer zoom modificando la escala del tiempo en la zona donde se encuentra el flanco ascendente del clock, se puede ver lo siguiente:
+
+\begin{center}
+\includegraphics{../7-Async-Sync-Counter/counter_s2.png}
+\includegraphics{../7-Async-Sync-Counter/counter_a2.png}
+\end{center}
+
+Se puede observar que en el contador sicrónico, los estados presentan un tiempo de propagación similar debido a que los flip flops tienen el mismo clock como input, es decir, están sincronizados.
+En cambio en el contador asincrónico, como los flip flops no están sincronizados, los timpos de propagación se van sumando. Razón por la cual el estado Q2 es el último en establecerse.
+
+\subsection{Conclusión}
+En conclusión se puede decir que el contandor sincrónico es más rápido que en asincrónico. Además en contador asincrónico puede presentar problemas si el tiempo de propagación total es mayor que el tiempo entre flancos ascendentes del clock.
