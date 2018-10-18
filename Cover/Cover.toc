@@ -1,23 +1,23 @@
 \babel@toc {spanish}{}
 \babel@toc {spanish}{}
-\contentsline {section}{List of Figures}{3}{chapter*.3}
-\contentsline {section}{List of Tables}{4}{chapter*.5}
-\contentsline {chapter}{\numberline {1}NotGATE}{5}{chapter.1}
-\contentsline {subsection}{\numberline {1.0.1}Objetivo}{5}{subsection.1.0.1}
-\contentsline {chapter}{\numberline {2}NoiseMargin}{6}{chapter.2}
-\contentsline {chapter}{\numberline {3}Implementaci\IeC {\'o}n de Tabla de Verdad}{8}{chapter.3}
-\contentsline {chapter}{\numberline {4}TTL y CMOS}{13}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{13}{section.4.1}
-\contentsline {section}{\numberline {4.2}Compatibilidad}{13}{section.4.2}
-\contentsline {section}{\numberline {4.3}Soluci\IeC {\'o}n}{14}{section.4.3}
-\contentsline {chapter}{\numberline {5}Flip Flop y Latch}{16}{chapter.5}
-\contentsline {chapter}{\numberline {6}Contador Ascendente}{17}{chapter.6}
-\contentsline {section}{\numberline {6.1}Funcionamiento L\IeC {\'o}gico del Contador Ascendente}{17}{section.6.1}
-\contentsline {section}{\numberline {6.2}Tipos de Contadores}{17}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}An\IeC {\'a}lisis de Ambos Circuitos}{18}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Conclusi\IeC {\'o}n}{21}{subsection.6.2.2}
-\contentsline {chapter}{\numberline {7}Ultrasonido}{22}{chapter.7}
-\contentsline {subsection}{\numberline {7.0.1}Objetivo}{22}{subsection.7.0.1}
-\contentsline {subsection}{\numberline {7.0.2}Analisis}{23}{subsection.7.0.2}
-\contentsline {chapter}{Appendix}{24}{section*.8}
-\contentsline {chapter}{References}{25}{chapter*.9}
+\contentsline {section}{List of Figures}{2}{chapter*.3}
+\contentsline {section}{List of Tables}{3}{chapter*.5}
+\contentsline {chapter}{\numberline {1}NotGATE}{4}{chapter.1}
+\contentsline {subsection}{\numberline {1.0.1}Objetivo}{4}{subsection.1.0.1}
+\contentsline {chapter}{\numberline {2}NoiseMargin}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Implementaci\IeC {\'o}n de Tabla de Verdad}{7}{chapter.3}
+\contentsline {chapter}{\numberline {4}TTL y CMOS}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{12}{section.4.1}
+\contentsline {section}{\numberline {4.2}Compatibilidad}{12}{section.4.2}
+\contentsline {section}{\numberline {4.3}Soluci\IeC {\'o}n}{13}{section.4.3}
+\contentsline {chapter}{\numberline {5}Flip Flop y Latch}{15}{chapter.5}
+\contentsline {chapter}{\numberline {6}Contador Ascendente}{16}{chapter.6}
+\contentsline {section}{\numberline {6.1}Funcionamiento L\IeC {\'o}gico del Contador Ascendente}{16}{section.6.1}
+\contentsline {section}{\numberline {6.2}Tipos de Contadores}{16}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}An\IeC {\'a}lisis de Ambos Circuitos}{17}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Conclusi\IeC {\'o}n}{20}{subsection.6.2.2}
+\contentsline {chapter}{\numberline {7}Ultrasonido}{21}{chapter.7}
+\contentsline {subsection}{\numberline {7.0.1}Objetivo}{21}{subsection.7.0.1}
+\contentsline {subsection}{\numberline {7.0.2}Analisis}{22}{subsection.7.0.2}
+\contentsline {chapter}{Appendix}{23}{section*.8}
+\contentsline {chapter}{References}{24}{chapter*.9}

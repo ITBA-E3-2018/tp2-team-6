@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.23)  18 OCT 2018 00:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.23)  18 OCT 2018 10:13
 entering extended mode
 **./Cover.tex
 (Cover.tex
@@ -1102,26 +1102,6 @@ LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.59 <<
-       <<<<< HEAD
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for U+lasy on input line 59.
-("C:\Users\Msrt\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd"
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-
-LaTeX Warning: Label `INT1' multiply defined.
-
 )
 \openout1 = `Cover.aux'.
 
@@ -1227,35 +1207,7 @@ LaTeX Info: Redefining \nameref on input line 14.
 \openout4 = `Cover.out'.
 
  ABD: EveryShipout initializing macros
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 16.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 16.
-
-[1
-
-{C:/Users/Msrt/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<logo.jpg, id=136, 564.1878pt x 277.035pt>
+<logo.jpg, id=90, 564.1878pt x 277.035pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg  used on input line 22.
@@ -1294,73 +1246,16 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 64.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 64.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.64 \end{titlepage}
-                     [1 <./logo.jpg>] (Cover.toc
+
+[1
+
+{C:/Users/Msrt/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>]
+ (Cover.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ...eC {\'o}n de Tabla de Verdad}{7}{chapter.3}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 ...mberline {3}Tabla de Verdad}{7}{chapter.3}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 28.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 28.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.28 ...rline {6}Flip Flop y Latch}{11}{chapter.6}
-                                                   [1
-
-])
+)
 \tf@toc=\write5
 \openout5 = `Cover.toc'.
 
@@ -1388,7 +1283,14 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 70.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 70.
- [2] (Cover.lof
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.70 \newpage
+              [1
+
+] (Cover.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \. on input line 2.
@@ -1433,8 +1335,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 79.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 79.
-
-[3
+ [2
 
 ] (Cover.lot
 LaTeX Info: Redefining \. on input line 1.
@@ -1481,7 +1382,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 81.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 81.
- [4
+ [3
 
 ] (../1-NotGate/NotGate.tex
 Cap\'{\i }tulo 1.
@@ -1538,7 +1439,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 22.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 22.
- [5
+ [4
 
 
 ]
@@ -1587,7 +1488,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
-[6
+[5
 
 ]
 Package babel Info: Redefining spanish shorthand <<
@@ -1614,7 +1515,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
- [7]
+ [6]
 Cap\'{\i }tulo 3.
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 1.
@@ -1652,14 +1553,14 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 45.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 45.
-[8
+[7
 
 ]
 
 LaTeX Warning: File `../3-TruthTable/Circuito AND, OR ,NOT.png' not found on in
 put line 72.
 
-<../3-TruthTable/Circuito AND, OR ,NOT.png, id=227, 472.01344pt x 265.74281pt>
+<../3-TruthTable/Circuito AND, OR ,NOT.png, id=169, 472.01344pt x 265.74281pt>
 File: ../3-TruthTable/Circuito AND, OR ,NOT.png Graphic file (type png)
 <use ../3-TruthTable/Circuito AND, OR ,NOT.png>
 Package pdftex.def Info: ../3-TruthTable/Circuito AND, OR ,NOT.png  used on inp
@@ -1694,12 +1595,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 73.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 73.
-[9]
+[8]
 
 LaTeX Warning: File `../3-TruthTable/Circuito Logico.png' not found on input li
 ne 77.
 
-<../3-TruthTable/Circuito Logico.png, id=232, 476.53032pt x 253.69781pt>
+<../3-TruthTable/Circuito Logico.png, id=174, 476.53032pt x 253.69781pt>
 File: ../3-TruthTable/Circuito Logico.png Graphic file (type png)
 <use ../3-TruthTable/Circuito Logico.png>
 Package pdftex.def Info: ../3-TruthTable/Circuito Logico.png  used on input lin
@@ -1735,8 +1636,8 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
- [10 <../3-TruthTable/Circuito AND, OR ,NOT.png> <../3-TruthTable/Circuito Logi
-co.png>]) (../5-TTL&CMOS/TTL&CMOS.tex
+ [9 <../3-TruthTable/Circuito AND, OR ,NOT.png> <../3-TruthTable/Circuito Logic
+o.png>]) (../5-TTL&CMOS/TTL&CMOS.tex
 Underfull \hbox (badness 10000) in paragraph at lines 20--1
 
  []
@@ -1765,7 +1666,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
-[11
+[10
 
 ]
 Package babel Info: Redefining spanish shorthand <<
@@ -1792,7 +1693,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
- [12]
+ [11]
 Cap\'{\i }tulo 4.
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 1.
@@ -1854,7 +1755,7 @@ l.11 ...atio]{../5-TTL&CMOS/E3-ej5-defectuoso.png}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<../5-TTL&CMOS/E3-ej5-defectuoso.png, id=247, 373.99725pt x 269.20575pt>
+<../5-TTL&CMOS/E3-ej5-defectuoso.png, id=188, 373.99725pt x 269.20575pt>
 File: ../5-TTL&CMOS/E3-ej5-defectuoso.png Graphic file (type png)
 <use ../5-TTL&CMOS/E3-ej5-defectuoso.png>
 Package pdftex.def Info: ../5-TTL&CMOS/E3-ej5-defectuoso.png  used on input lin
@@ -1884,7 +1785,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 12.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 12.
-[13
+[12
 
 ]
 Package babel Info: Redefining spanish shorthand <<
@@ -1923,7 +1824,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 18.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 18.
- [14 <../5-TTL&CMOS/E3-ej5-defectuoso.png>]
+ [13 <../5-TTL&CMOS/E3-ej5-defectuoso.png>]
 
 ! Package keyval Error: max height undefined.
 
@@ -1948,7 +1849,7 @@ l.19 ...ratio]{../5-TTL&CMOS/E3-ej5-corregido.png}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<../5-TTL&CMOS/E3-ej5-corregido.png, id=256, 562.5015pt x 268.6035pt>
+<../5-TTL&CMOS/E3-ej5-corregido.png, id=198, 562.5015pt x 268.6035pt>
 File: ../5-TTL&CMOS/E3-ej5-corregido.png Graphic file (type png)
 <use ../5-TTL&CMOS/E3-ej5-corregido.png>
 Package pdftex.def Info: ../5-TTL&CMOS/E3-ej5-corregido.png  used on input line
@@ -1984,7 +1885,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
- [15 <../5-TTL&CMOS/E3-ej5-corregido.png>]
+ [14 <../5-TTL&CMOS/E3-ej5-corregido.png>]
 Cap\'{\i }tulo 5.
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 1.
@@ -2023,7 +1924,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
- [16
+ [15
 
 ]
 Cap\'{\i }tulo 6.
@@ -2067,7 +1968,7 @@ Package babel Info: Redefining spanish shorthand "?
 LaTeX Warning: File `../7-Async-Sync-Counter/contador sinc.png' not found on in
 put line 43.
 
-<../7-Async-Sync-Counter/contador sinc.png, id=265, 343.5234pt x 108.8868pt>
+<../7-Async-Sync-Counter/contador sinc.png, id=207, 343.5234pt x 108.8868pt>
 File: ../7-Async-Sync-Counter/contador sinc.png Graphic file (type png)
 <use ../7-Async-Sync-Counter/contador sinc.png>
 Package pdftex.def Info: ../7-Async-Sync-Counter/contador sinc.png  used on inp
@@ -2077,7 +1978,7 @@ ut line 43.
 LaTeX Warning: File `../7-Async-Sync-Counter/contador asinc.png' not found on i
 nput line 44.
 
-<../7-Async-Sync-Counter/contador asinc.png, id=267, 343.5234pt x 94.4328pt>
+<../7-Async-Sync-Counter/contador asinc.png, id=209, 343.5234pt x 94.4328pt>
 File: ../7-Async-Sync-Counter/contador asinc.png Graphic file (type png)
 <use ../7-Async-Sync-Counter/contador asinc.png>
 Package pdftex.def Info: ../7-Async-Sync-Counter/contador asinc.png  used on in
@@ -2107,7 +2008,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 45.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 45.
-[17
+[16
 
 ]
 Package babel Info: Redefining spanish shorthand <<
@@ -2122,7 +2023,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 47.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 47.
-<../7-Async-Sync-Counter/pcb.png, id=273, 259.2084pt x 185.0112pt>
+<../7-Async-Sync-Counter/pcb.png, id=214, 259.2084pt x 185.0112pt>
 File: ../7-Async-Sync-Counter/pcb.png Graphic file (type png)
 <use ../7-Async-Sync-Counter/pcb.png>
 Package pdftex.def Info: ../7-Async-Sync-Counter/pcb.png  used on input line 53
@@ -2133,7 +2034,7 @@ Package pdftex.def Info: ../7-Async-Sync-Counter/pcb.png  used on input line 53
 LaTeX Warning: File `../7-Async-Sync-Counter/contador osc.png' not found on inp
 ut line 59.
 
-<../7-Async-Sync-Counter/contador osc.png, id=274, 464.937pt x 289.5618pt>
+<../7-Async-Sync-Counter/contador osc.png, id=215, 464.937pt x 289.5618pt>
 File: ../7-Async-Sync-Counter/contador osc.png Graphic file (type png)
 <use ../7-Async-Sync-Counter/contador osc.png>
 Package pdftex.def Info: ../7-Async-Sync-Counter/contador osc.png  used on inpu
@@ -2168,15 +2069,15 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 60.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 60.
-[18 <../7-Async-Sync-Counter/contador sinc.png> <../7-Async-Sync-Counter/contad
+[17 <../7-Async-Sync-Counter/contador sinc.png> <../7-Async-Sync-Counter/contad
 or asinc.png> <../7-Async-Sync-Counter/pcb.png>]
-<../7-Async-Sync-Counter/counter_s2.png, id=282, 470.2368pt x 289.5618pt>
+<../7-Async-Sync-Counter/counter_s2.png, id=223, 470.2368pt x 289.5618pt>
 File: ../7-Async-Sync-Counter/counter_s2.png Graphic file (type png)
 <use ../7-Async-Sync-Counter/counter_s2.png>
 Package pdftex.def Info: ../7-Async-Sync-Counter/counter_s2.png  used on input 
 line 66.
 (pdftex.def)             Requested size: 470.23564pt x 289.56108pt.
-<../7-Async-Sync-Counter/counter_a2.png, id=283, 471.6822pt x 289.5618pt>
+<../7-Async-Sync-Counter/counter_a2.png, id=224, 471.6822pt x 289.5618pt>
 File: ../7-Async-Sync-Counter/counter_a2.png Graphic file (type png)
 <use ../7-Async-Sync-Counter/counter_a2.png>
 Package pdftex.def Info: ../7-Async-Sync-Counter/counter_a2.png  used on input 
@@ -2216,7 +2117,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 68.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 68.
-[19 <../7-Async-Sync-Counter/contador osc.png>]
+[18 <../7-Async-Sync-Counter/contador osc.png>]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand >>
@@ -2241,7 +2142,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 72.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 72.
- [20 <../7-Async-Sync-Counter/counter_s2.png> <../7-Async-Sync-Counter/counter_
+ [19 <../7-Async-Sync-Counter/counter_s2.png> <../7-Async-Sync-Counter/counter_
 a2.png>]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 73.
@@ -2281,7 +2182,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
- [21]
+ [20]
 Cap\'{\i }tulo 7.
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 1.
@@ -2323,7 +2224,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 4.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 4.
-<../8-UltraSound/Driagrama-de-Flujo.png, id=300, 752.8125pt x 520.19344pt>
+<../8-UltraSound/Driagrama-de-Flujo.png, id=241, 752.8125pt x 520.19344pt>
 File: ../8-UltraSound/Driagrama-de-Flujo.png Graphic file (type png)
 <use ../8-UltraSound/Driagrama-de-Flujo.png>
 Package pdftex.def Info: ../8-UltraSound/Driagrama-de-Flujo.png  used on input 
@@ -2366,7 +2267,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 98.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 98.
-[22
+[21
 
 ]
 Package babel Info: Redefining spanish shorthand <<
@@ -2393,7 +2294,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 98.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 98.
- [23 <../8-UltraSound/Driagrama-de-Flujo.png>]
+ [22 <../8-UltraSound/Driagrama-de-Flujo.png>]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 100.
 Package babel Info: Redefining spanish shorthand >>
@@ -2430,46 +2331,46 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 103.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 103.
+ [23
+
+]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 104.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 104.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 104.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 104.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 104.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 104.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 108.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 108.
  [24
-
-]
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 104.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 104.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 104.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 104.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 104.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 104.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 108.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 108.
- [25
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
@@ -2482,70 +2383,38 @@ LaTeX Info: Redefining \% on input line 24.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
-
-
-Package rerunfilecheck Warning: File `Cover.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Cover.out':
-(rerunfilecheck)             Before: 03620770183A509B61EDF9E92EBDFC43;1961
-(rerunfilecheck)             After:  8BA6F7C7874C22BFC635A5A98EE982CF;1250.
-
-LaTeX Warning: There were multiply-defined labels.
-
+Package rerunfilecheck Info: File `Cover.out' has not changed.
+(rerunfilecheck)             Checksum: 8BA6F7C7874C22BFC635A5A98EE982CF;1250.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 25762 strings out of 493305
- 554499 string characters out of 3130237
- 737667 words of memory out of 3000000
- 28773 multiletter control sequences out of 15000+200000
- 13575 words of font info for 50 fonts, out of 3000000 for 9000
+ 25729 strings out of 493305
+ 553883 string characters out of 3130237
+ 737495 words of memory out of 3000000
+ 28752 multiletter control sequences out of 15000+200000
+ 13469 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,14n,69p,1102b,885s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{chapter*.8} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.7} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.8} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.7.2.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.7.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.7.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.7.1} has been referenced but does not exist
-, replaced by a fixed one
-
-<C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbsy10.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Msrt/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Msrt/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Us
-ers/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
-.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Msrt/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Msrt/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Us
-ers/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont
-/lasy10.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/symbols/msam10.pfb>
-Output written on Cover.pdf (27 pages, 957808 bytes).
+<C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbsy10.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmbx10.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Msrt/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Msrt/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Msrt/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
+Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+10.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr17.pfb><C:/Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Msrt/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Msrt/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Msrt/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/
+Users/Msrt/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb>
+Output written on Cover.pdf (25 pages, 942243 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 329 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 321 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
 
