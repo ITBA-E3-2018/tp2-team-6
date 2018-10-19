@@ -1,4 +1,6 @@
 \chapter{Implementación de Tabla de Verdad}
+%\stepcounter{chapter}
+
 Dada la siguiente tabla de verdad se pide implementarla fisícamente haciendo uso de compuertas logicas.
 \begin{center}
 \begin{tabular}{ |c|c|c|c| } 
@@ -69,11 +71,13 @@ Con el fin de salvaguardarnos de este potencial inconveniente se añade ese grup
 Por ultimo, el mapa de Karnaugh nos provee de la minima función que representa la tabla de verdad. Es decir la expresión de menor costo. Pero esta no tiene en cuenta el verdadero costo de manufactura. El cual es una factor decisivo. 
 Sin recurrir a ningun tipo de optimización manual hubiesemos obtenido el siguiente resultado.
 \begin{center}
-\includegraphics[scale = 0.8,keepaspectratio]{../3-TruthTable/Circuito AND, OR ,NOT.png}
+	\includegraphics[scale=0.8]{../3-TruthTable/Circuito AND, OR ,NOT.png}
 \end{center}
 Este circuito hubiese requerido el uso de 3 circuitos integrados. 
 Por otro lado, un analisis un poco más profundo permite ver que la realización de dicho circuito en su equivalente en con compuertas \emph{NAND} es menos costoso en terminos monetarios. La razón de esto es que requiere unicamente 2 circuitos integrados
+
 \begin{center}
-\includegraphics[scale = 0.8,keepaspectratio]{../3-TruthTable/Circuito Logico.png}
-\end{center}
- 
+
+\includegraphics[scale=0.8]{../3-TruthTable/Circuito Logico.png}
+
+\end{center}	

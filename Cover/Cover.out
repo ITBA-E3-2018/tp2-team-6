@@ -1,21 +1,31 @@
 \BOOKMARK [1][-]{chapter*.3}{List of Figures}{}% 1
 \BOOKMARK [1][-]{chapter*.5}{List of Tables}{}% 2
-\BOOKMARK [0][-]{chapter.1}{NotGATE}{}% 3
-\BOOKMARK [1][-]{subsection.1.0.1}{Objetivo}{chapter.1}% 4
-\BOOKMARK [0][-]{chapter.2}{NoiseMargin}{}% 5
-\BOOKMARK [0][-]{chapter.3}{Implementaci\363n de Tabla de Verdad}{}% 6
-\BOOKMARK [0][-]{chapter.4}{TTL y CMOS}{}% 7
-\BOOKMARK [1][-]{section.4.1}{Introducci\363n}{chapter.4}% 8
-\BOOKMARK [1][-]{section.4.2}{Compatibilidad}{chapter.4}% 9
-\BOOKMARK [1][-]{section.4.3}{Soluci\363n}{chapter.4}% 10
-\BOOKMARK [0][-]{chapter.5}{Flip Flop y Latch}{}% 11
-\BOOKMARK [0][-]{chapter.6}{Contador Ascendente}{}% 12
-\BOOKMARK [1][-]{section.6.1}{Funcionamiento L\363gico del Contador Ascendente}{chapter.6}% 13
-\BOOKMARK [1][-]{section.6.2}{Tipos de Contadores}{chapter.6}% 14
-\BOOKMARK [2][-]{subsection.6.2.1}{An\341lisis de Ambos Circuitos}{section.6.2}% 15
-\BOOKMARK [2][-]{subsection.6.2.2}{Conclusi\363n}{section.6.2}% 16
-\BOOKMARK [0][-]{chapter.7}{Ultrasonido}{}% 17
-\BOOKMARK [1][-]{subsection.7.0.1}{Objetivo}{chapter.7}% 18
-\BOOKMARK [2][-]{subsection.7.0.2}{Analisis}{subsection.7.0.1}% 19
-\BOOKMARK [0][-]{section*.8}{Appendix}{}% 20
-\BOOKMARK [0][-]{chapter*.9}{References}{}% 21
+\BOOKMARK [0][-]{chapter.1}{Not Gate}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Mediciones}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.1}{Conclusiones}{section.1.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Noise Margin}{}% 6
+\BOOKMARK [0][-]{chapter.3}{Implementaci\363n de Tabla de Verdad}{}% 7
+\BOOKMARK [0][-]{chapter.4}{74HC02}{}% 8
+\BOOKMARK [0][-]{chapter.5}{TTL y CMOS}{}% 9
+\BOOKMARK [1][-]{section.5.1}{Introducci\363n}{chapter.5}% 10
+\BOOKMARK [1][-]{section.5.2}{Compatibilidad}{chapter.5}% 11
+\BOOKMARK [1][-]{section.5.3}{Soluci\363n}{chapter.5}% 12
+\BOOKMARK [0][-]{chapter.6}{Flip Flop y Latch}{}% 13
+\BOOKMARK [1][-]{section.6.1}{Gated latch SR}{chapter.6}% 14
+\BOOKMARK [1][-]{section.6.2}{Flip-flop D}{chapter.6}% 15
+\BOOKMARK [1][-]{section.6.3}{Conclusiones}{chapter.6}% 16
+\BOOKMARK [0][-]{chapter.7}{Contador Ascendente}{}% 17
+\BOOKMARK [1][-]{section.7.1}{Funcionamiento L\363gico del Contador Ascendente}{chapter.7}% 18
+\BOOKMARK [1][-]{section.7.2}{Tipos de Contadores}{chapter.7}% 19
+\BOOKMARK [2][-]{subsection.7.2.1}{An\341lisis de Ambos Circuitos}{section.7.2}% 20
+\BOOKMARK [2][-]{subsection.7.2.2}{Conclusi\363n}{section.7.2}% 21
+\BOOKMARK [0][-]{chapter.8}{Ultrasonido}{}% 22
+\BOOKMARK [1][-]{section.8.1}{Objetivo}{chapter.8}% 23
+\BOOKMARK [1][-]{section.8.2}{An\341lisis}{chapter.8}% 24
+\BOOKMARK [1][-]{section.8.3}{Generador de puslos con LM555 Monoestable}{chapter.8}% 25
+\BOOKMARK [1][-]{section.8.4}{Contando el tiempo}{chapter.8}% 26
+\BOOKMARK [2][-]{subsection.8.4.1}{Modo Astable LM555}{section.8.4}% 27
+\BOOKMARK [1][-]{section.8.5}{Implementacion en PCB}{chapter.8}% 28
+\BOOKMARK [1][-]{section.8.6}{Retriggering}{chapter.8}% 29
+\BOOKMARK [0][-]{section*.7}{Appendix}{}% 30
+\BOOKMARK [0][-]{chapter*.8}{References}{}% 31

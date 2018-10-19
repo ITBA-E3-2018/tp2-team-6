@@ -19,7 +19,7 @@
 \center % Center everything
 
 %	LOGO SECTION
-\includegraphics[scale=0.25, keepaspectratio]{logo.jpg}\\[0.5cm] % Logo of the university
+\includegraphics[scale=0.25,bb=0 0 30 30]{logo.jpg}\\[0.5cm] % Logo of the university
 
 %	HEADING SECTIONS
 \textsc{\LARGE Instituto Tecnologico de Buenos Aires}\\[0.5cm] % Name of the university

@@ -19,12 +19,14 @@
 %{1cm}                         % Space between the text and the headers
 %{0pt}                          % Height of the foot of page
 %{2cm}                         % Space between the tax and the foot of page
-\chapter{NoiseMargin}
+\chapter{Noise Margin}
+%\stepcounter{chapter}
+
 Se realizo una comparación entre el cambio de márgenes de ruido causados por la combinación entre las compuertas 74HC02 y 74LS02 y, entre 74HCT02 y 74LS02. Pero primero expondremos una breve síntesis entre las diferencias esenciales entre ellas.
 La primera diferencia esencial entre ellas es el transistor interno que usan, las compuertas HCT y HC es un transistor de efecto de campo, CMOS, mientras que las compuertas LS utilizan un transistor bipolar, BJT. Debido a esto la compuerta LS van a requerir mayor potencia que las demás, pero van a tener tiempos más rápidos mientras que las HCT y HC a pesar de requerir un mayor tiempo van a tener un bajo consumo de tiempo. Por último, la diferencia esencial entre la HCT y la HC es que una posee una salida más compatible para la alimentación de las LS, de forma tal que una combinación de HC y LS va a tener problemas dado por las diferencias de salida del HC y la entrada requerida en LS mientras que para la HCT esto no sucede.
-Del datasheet se pueden obtener los siguientes valores en donde $V_{IHmin}$ es la mínima tensión de entrada que la compuerta reconoce como High,$V_{ILmax}$ es la máxima tensión de entrada que la compuerta reconoce como Low,$V_{OHmin}$ es la mínima tensión de salida dada por la compuerta dado que esta en High y $V_{OLmax}$ es la máxima tensión de salida dada por la compuerta dado que esta en Low.
+Del datasheet se pueden obtener los siguientes valores en donde $V_{IHmin}$ es la mínima tensión de entrada que la compuerta reconoce como High,$V_{ILmax}$ es la máxima tensión de entrada que la compuerta reconoce como Low,$V_{OHmin}$ es la mínima tensión de salida dada por la compuerta dado que esta en High y $V_{OLmax}$ es la máxima tensión de salida dada por la compuerta dado que esta en Low.\\
 \begin{center}
-	\begin{table}[h!]
+	\begin{table}[!h]
 		\begin{center}
 		\caption{Datasheet}
 			\begin{tabular}{|c|c|c|c|c|}
@@ -41,9 +43,10 @@ Del datasheet se pueden obtener los siguientes valores en donde $V_{IHmin}$ es l
 		\end{center}
 	\end{table}
 \end{center}
-Luego de la combinación  en donde un circuito alimenta al otro, se obtuvieron los siguientes valores:
+Luego de la combinación  en donde un circuito alimenta al otro, se obtuvieron los siguientes valores:\\
+\FloatBarrier
 \begin{center}
-	\begin{table}[h!]
+	\begin{table}[!h]
 	\begin{center}
 		\caption{Valores Experimentales}
 			\begin{tabular}{|c|c|c|c|c|}
@@ -62,8 +65,10 @@ Luego de la combinación  en donde un circuito alimenta al otro, se obtuvieron l
 		\end{center}
 	\end{table}
 \end{center}
+\FloatBarrier
 Cabe mencionar que, durante la experiencia, las mediciones se realizaron con una señal cuadra de amplitud 20 mV en donde se fue variando el offset para poder obtener los valores medidos y que se uso una protobaord con lo cual los valores pueden presentar ligeros errores. Además, hay que mencionar que durante la experiencia se encontró un intervalo de 1,1 V a 0,9 V el cual dependiendo del pasado se tenía, para obtener un estado de Low o High en la compuerta LS dado que fuera alimentada con una HC y que en la HCT el intervalo era de 1 V a 0,95 V. Esto se puede deber a que la compuerta HC/HCT no podía darle la corriente necesaria para la polarización del transistor BJT de la LS causando que no funcione correctamente.Se debe mencionar que en ese intervalo devolvía High dado que viniera del estado High y Low si venia del estado Low.\\
-Para el cálculo del fan-out se obtuvo de la datasheet que los componentes 74HC02 y 74HCT02 tenían la siguiente corriente de entrada, $I_i= \pm 1 \mu A$ y una corriente de salida, $I_o= \pm 4 mA$ mientras que para la 74LS02 los valores fueron $I_i= \pm 20 \mu A$ para el High mientras que $I_i= \pm -0,4 mA$ para el Low y $I_o= \pm -0,4 mA$ para el High y$I_o= \pm 8 mA$ para el Low respectivamente.\\
+Para el cálculo del fan-out se obtuvo de la datasheet que los componentes 74HC02 y 74HCT02 tenían la siguiente corriente de entrada, $I_i= \pm 1 \mu A$ y una corriente de salida, $I_o= \pm 4 mA$ mientras que para la 74LS02 los valores fueron $I_i= \pm 20 \mu A$ para el High mientras que $I_i= \pm -0,4 mA$ para el Low y $I_o= \pm -0,4 mA$ para el High y$I_o= \pm 8 mA$ para el Low respectivamente.
+\\
 Luego utilizando la fórmula de fan-out, $fan-out=|I_o/I_i|$ en donde se realiza tanto para el estado High como el Low y uno se queda con el valor más chico. Entonces obtenemos que para las compuestas HC y HCT se le pueden alimentar hasta 10 LS mientras que para la LS podemos alimentar hasta 400 HC/HCT.\\
 Podemos concluir, que la conexión entre elementos de distintos tipo siempre puede acarrear problemas, pero para evitar un cambio drástico en el margen de Ruido es necesario utilizar compuertas tales que sean compatibles entre si como la HCT y la LS pero se debe tener en cuenta que las diferencias dadas en las tensiones de salida son debidas a la salida que puede dar el elemento con lo cual a menos que posean salidas iguales siempre se van a ver diferentes. Por ultimo, debido a que los valores de las tensiones de input son iguales en el LS y HCT el orden en el cual se conectan es casi indistinto mientras que para la HC por las diferencias de estas el orden cambia drásticamente la salida.\\
 %\end{document}

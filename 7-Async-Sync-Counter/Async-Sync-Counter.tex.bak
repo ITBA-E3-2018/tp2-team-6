@@ -1,4 +1,6 @@
 \chapter{Contador Ascendente}
+%\stepcounter{chapter}
+
 El circuito electr\'onico de un contador est\'a compuesto por flip flops tipo T ya que estos pueden almacenar un bit el cual se lo llama estado y proporcionan la facilidad de invertir el estado cuando ocurre el evento del flanco ascendente del clock. Es decir, se produce un toggle.
 \section{Funcionamiento Lógico del Contador Ascendente}
 El funcionamiento lógico del contador se lo explica en la siguiente tabla:
@@ -40,9 +42,10 @@ Donde el clock cycle simboliza el número de flancos ascendentes que se van pres
 Los dos tipos básicos de contadores son el sincrónico y al asincrónico. A continuación se muestran los circutios electrónicos de cada uno.
 
 \begin{center}
-\includegraphics{../7-Async-Sync-Counter/contador sinc.png}
-\includegraphics{../7-Async-Sync-Counter/contador asinc.png}
+	\includegraphics{../7-Async-Sync-Counter/contador sinc.png}
 \end{center}
+\includegraphics{../7-Async-Sync-Counter/contador asinc.png}
+
 
 \subsection{Análisis de Ambos Circuitos}
 

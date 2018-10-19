@@ -1,5 +1,4 @@
 \chapter{TTL y CMOS}
-
 %\graphicspath{ {images/} }
 
 \section{Introducción}
@@ -16,7 +15,7 @@ El problema aquí es el hecho de las tecnologías con las cuales se trabaja no r
 El problema entonces a solucionar es el de convertir la tensión de salida \textit{HIGH} del TTL a una que pueda ser interpretable como tal a la entrada para la tecnología CMOS.
 Para esto lo que se decidio implementar es lo siguiente, se considero es uso de una resistencia \textit{pull-up} junto con un transistor BJT tipo NPN para aumentar el valor de la tensión previo a entrar a la compuerta OR, sin embargo si la tensión a la base del transistor es mayor a aquella con la cual se polariza el transistor no se cumplirá la función deseada, por eso se colocó una compuerta inversora a la salida de la AND teniendo el resguardo de que ambas de estas sean de la misma tecnología. el circuito final es el que se muestra en la siguiente imagen.
 \begin{center}
-\includegraphics[scale = 0.8,keepaspectratio]{../5-TTL&CMOS/E3-ej5-corregido.png}
+	\includegraphics[scale = 0.8,keepaspectratio]{../5-TTL&CMOS/E3-ej5-corregido.png}
 \end{center}
 
 Siguiendo la lógica del circuito se entiende que cuando la compuerta AND vea un 1 a su salida el transistor no se polarizara de modo tal que la tensión a la entrada de la compuerta and será la de alimentación, siendo esta de 5v suficiente para ser tomada como 1, en la práctica se pudo ver que en este caso la compuerta AND se accionaba sin ningún tipo de problema.
